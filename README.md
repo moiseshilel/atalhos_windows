@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src=".github/assets/banner.png">
+    <img width="100" src="./assets/banner.png">
 </p>
 
 
@@ -25,12 +25,12 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/moiseshilel/atalhos_windows/blob/main/output/Ebook.pdf" title="View PDF now"> 📕Clique aqui para ler</a> 
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [ArtGuru](https://www.artguru.ai/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -44,21 +44,20 @@ ChatGPT：
 | conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
 
 
-Midjourney：
+ArtGuru：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | a luffy in meditation pose |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via ArtGuru
 
 ## 📚 Materiais
 
 - Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
 
 ## 🛠️ Instruções de execução
 
@@ -71,16 +70,16 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://avatars.githubusercontent.com/u/133283977?v=4"
     />
     <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
+    <a href="https://github.com/moiseshilel">
     GitHub</a>&nbsp;|&nbsp;
     <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
+mhilel-developer">LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
+    <a href="https://www.instagram.com/moiseshilel/">
     Instagram</a>
 &nbsp;|&nbsp;</p>
 </p>
@@ -89,4 +88,4 @@ felipe-exe">LinkedIn</a>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Moises Hilel](https://github.com/moiseshilel)
