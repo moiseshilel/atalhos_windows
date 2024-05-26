@@ -40,8 +40,8 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um título de um ebook sobre o tema de atalhos de windows, o ebook é do nicho de sistemas e o subnicho atalhos do windows, o título deve ser épico e curto, e tenha uma temática de one piece no título, me liste 5 variações de títulos                                                        |
+| conteúdo | Faça um texto para ebook, com foco em Atalhos do windows, listando os principais deles com exemplos de comandos {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de atalhos em contextos reais , sempre deixe um título sugestivo por tópico |
 
 
 ArtGuru：
@@ -76,8 +76,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     &nbsp&nbsp&nbsp
     <a href="https://github.com/moiseshilel">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-mhilel-developer">LinkedIn</a>
+    <a href="www.linkedin.com/in/mhilel-developer">LinkedIn</a>
 &nbsp;|&nbsp;
     <a href="https://www.instagram.com/moiseshilel/">
     Instagram</a>
